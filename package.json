@@ -1,0 +1,9 @@
+{
+  "name": "vo-introduction-course",
+  "version": "1.0.0",
+  "description": "Some exercises for getting used to navigating websites with VO",
+  "main": "index.js",
+  "repository": "git@github.com:imccausl/vo-introduction-course.git",
+  "author": "Ian McCausland <imccausl@gmail.com>",
+  "license": "MIT"
+}
